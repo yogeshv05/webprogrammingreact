@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/webprogrammingreact/static/css/main.e6c13ad2.css",
-    "main.js": "/webprogrammingreact/static/js/main.17887e9b.js",
+    "main.js": "/webprogrammingreact/static/js/main.6a7c3cc7.js",
     "static/js/598.27ae9048.chunk.js": "/webprogrammingreact/static/js/598.27ae9048.chunk.js",
     "static/js/658.7dd37057.chunk.js": "/webprogrammingreact/static/js/658.7dd37057.chunk.js",
     "static/js/297.94aa3b3b.chunk.js": "/webprogrammingreact/static/js/297.94aa3b3b.chunk.js",
@@ -15,14 +15,14 @@
     "static/js/299.cb21a30a.chunk.js": "/webprogrammingreact/static/js/299.cb21a30a.chunk.js",
     "static/js/994.2346deb1.chunk.js": "/webprogrammingreact/static/js/994.2346deb1.chunk.js",
     "static/js/881.2e90c570.chunk.js": "/webprogrammingreact/static/js/881.2e90c570.chunk.js",
-    "static/js/672.031f78d3.chunk.js": "/webprogrammingreact/static/js/672.031f78d3.chunk.js",
+    "static/js/672.2ab9e9f5.chunk.js": "/webprogrammingreact/static/js/672.2ab9e9f5.chunk.js",
     "static/js/733.571817ef.chunk.js": "/webprogrammingreact/static/js/733.571817ef.chunk.js",
-    "static/js/558.6545a101.chunk.js": "/webprogrammingreact/static/js/558.6545a101.chunk.js",
+    "static/js/558.dd562fef.chunk.js": "/webprogrammingreact/static/js/558.dd562fef.chunk.js",
     "static/js/900.16182638.chunk.js": "/webprogrammingreact/static/js/900.16182638.chunk.js",
-    "static/js/2.add722a9.chunk.js": "/webprogrammingreact/static/js/2.add722a9.chunk.js",
+    "static/js/2.78a5d39e.chunk.js": "/webprogrammingreact/static/js/2.78a5d39e.chunk.js",
     "static/js/472.295f24a4.chunk.js": "/webprogrammingreact/static/js/472.295f24a4.chunk.js",
     "static/js/849.a928e172.chunk.js": "/webprogrammingreact/static/js/849.a928e172.chunk.js",
-    "static/js/250.42e7441f.chunk.js": "/webprogrammingreact/static/js/250.42e7441f.chunk.js",
+    "static/js/250.9e989122.chunk.js": "/webprogrammingreact/static/js/250.9e989122.chunk.js",
     "static/js/453.07a6ab98.chunk.js": "/webprogrammingreact/static/js/453.07a6ab98.chunk.js",
     "static/js/4.a6e26201.chunk.js": "/webprogrammingreact/static/js/4.a6e26201.chunk.js",
     "static/js/518.7a2dcc6f.chunk.js": "/webprogrammingreact/static/js/518.7a2dcc6f.chunk.js",
@@ -30,7 +30,7 @@
     "static/media/back2.jpg": "/webprogrammingreact/static/media/back2.8f3ee378c794cba5cbe0.jpg",
     "index.html": "/webprogrammingreact/index.html",
     "main.e6c13ad2.css.map": "/webprogrammingreact/static/css/main.e6c13ad2.css.map",
-    "main.17887e9b.js.map": "/webprogrammingreact/static/js/main.17887e9b.js.map",
+    "main.6a7c3cc7.js.map": "/webprogrammingreact/static/js/main.6a7c3cc7.js.map",
     "598.27ae9048.chunk.js.map": "/webprogrammingreact/static/js/598.27ae9048.chunk.js.map",
     "658.7dd37057.chunk.js.map": "/webprogrammingreact/static/js/658.7dd37057.chunk.js.map",
     "297.94aa3b3b.chunk.js.map": "/webprogrammingreact/static/js/297.94aa3b3b.chunk.js.map",
@@ -44,19 +44,19 @@
     "299.cb21a30a.chunk.js.map": "/webprogrammingreact/static/js/299.cb21a30a.chunk.js.map",
     "994.2346deb1.chunk.js.map": "/webprogrammingreact/static/js/994.2346deb1.chunk.js.map",
     "881.2e90c570.chunk.js.map": "/webprogrammingreact/static/js/881.2e90c570.chunk.js.map",
-    "672.031f78d3.chunk.js.map": "/webprogrammingreact/static/js/672.031f78d3.chunk.js.map",
+    "672.2ab9e9f5.chunk.js.map": "/webprogrammingreact/static/js/672.2ab9e9f5.chunk.js.map",
     "733.571817ef.chunk.js.map": "/webprogrammingreact/static/js/733.571817ef.chunk.js.map",
-    "558.6545a101.chunk.js.map": "/webprogrammingreact/static/js/558.6545a101.chunk.js.map",
+    "558.dd562fef.chunk.js.map": "/webprogrammingreact/static/js/558.dd562fef.chunk.js.map",
     "900.16182638.chunk.js.map": "/webprogrammingreact/static/js/900.16182638.chunk.js.map",
-    "2.add722a9.chunk.js.map": "/webprogrammingreact/static/js/2.add722a9.chunk.js.map",
+    "2.78a5d39e.chunk.js.map": "/webprogrammingreact/static/js/2.78a5d39e.chunk.js.map",
     "849.a928e172.chunk.js.map": "/webprogrammingreact/static/js/849.a928e172.chunk.js.map",
-    "250.42e7441f.chunk.js.map": "/webprogrammingreact/static/js/250.42e7441f.chunk.js.map",
+    "250.9e989122.chunk.js.map": "/webprogrammingreact/static/js/250.9e989122.chunk.js.map",
     "453.07a6ab98.chunk.js.map": "/webprogrammingreact/static/js/453.07a6ab98.chunk.js.map",
     "4.a6e26201.chunk.js.map": "/webprogrammingreact/static/js/4.a6e26201.chunk.js.map",
     "518.7a2dcc6f.chunk.js.map": "/webprogrammingreact/static/js/518.7a2dcc6f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.17887e9b.js"
+    "static/js/main.6a7c3cc7.js"
   ]
 }
