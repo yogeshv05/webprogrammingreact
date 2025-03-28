@@ -1,5 +1,5 @@
 import React from "react";
-import ProfileImg from "./back2.jpg";
+import ProfileImg from "./back.jpg";
 
 class Profile extends React.Component{
     render(){
