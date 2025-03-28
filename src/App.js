@@ -8,7 +8,7 @@ const files = [
 ];
 
 const loadComponent = (file) => {
-  return lazy(() => import(`./${file === 'lab14q3' ? 'index' : file}.js`));
+  return lazy(() => import(`./${file}.js`));
 };
 
 function DynamicTable() {
