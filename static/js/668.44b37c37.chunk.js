@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[668],{5186:(e,t,s)=>{s.r(t),s.d(t,{default:()=>i});var a=s(5043);const c=s.p+"static/media/back.c99ef20ee368af1c2cf5.jpg";var n=s(579);class r extends a.Component{render(){return(0,n.jsx)("div",{style:{textAlign:"center"},children:(0,n.jsx)("img",{src:c,alt:"Profile Image",height:100,width:50})})}}const i=r}}]);
+//# sourceMappingURL=668.44b37c37.chunk.js.map

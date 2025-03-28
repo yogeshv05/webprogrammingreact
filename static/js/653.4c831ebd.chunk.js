@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[653],{5653:(e,t,a)=>{a.r(t);var n=a(6004),r=a(7119),s=a(579);test("renders learn react link",(()=>{(0,n.XX)((0,s.jsx)(r.default,{}));const e=n.nj.getByText(/learn react/i);expect(e).toBeInTheDocument()}))}}]);
+//# sourceMappingURL=653.4c831ebd.chunk.js.map

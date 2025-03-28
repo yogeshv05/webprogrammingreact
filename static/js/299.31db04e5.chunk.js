@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[299],{1299:(r,e,t)=>{t.r(e),t.d(e,{default:()=>i});var s=t(5043),n=t(579);class p extends s.Component{isPrime(r){if(r<2)return!1;for(var e=2;e<=Math.sqrt(r);e++)if(r%e===0)return!1;return!0}render(){var r=prompt("Enter number:");return r=parseInt(r),(0,n.jsxs)("p",{style:{fontSize:"20px"},children:[r," is ",this.isPrime(r)?"prime":"not prime"]})}}const i=p}}]);
+//# sourceMappingURL=299.31db04e5.chunk.js.map
