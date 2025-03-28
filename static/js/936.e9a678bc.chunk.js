@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[936],{73936:(e,s,n)=>{n.r(s),n.d(s,{default:()=>l});var a=n(65043),r=n(70579);class p extends a.Component{render(){return(0,r.jsxs)("div",{children:[(0,r.jsx)("h1",{children:" List of fruits "}),(0,r.jsx)("ul",{children:["apple","banana","grapes"].map(((e,s)=>(0,r.jsx)("li",{children:e},s)))})]})}}const l=p}}]);
+//# sourceMappingURL=936.e9a678bc.chunk.js.map

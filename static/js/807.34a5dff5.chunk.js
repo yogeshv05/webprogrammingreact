@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[807],{80807:(e,r,n)=>{n.r(r),n.d(r,{default:()=>l});var s=n(65043),a=n(70579);class d extends s.Component{render(){return(0,a.jsx)("h1",{style:{backgroundColor:"green",color:"red"},children:"Styled Heading"})}}const l=d}}]);
+//# sourceMappingURL=807.34a5dff5.chunk.js.map

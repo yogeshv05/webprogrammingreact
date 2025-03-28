@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[261],{40261:(e,n,s)=>{s.r(n),s.d(n,{default:()=>a});var p=s(65043),t=s(70579);class r extends p.Component{render(){let e;return e="Good Morning",(0,t.jsx)("p",{style:{fontSize:"25px"},children:e})}}const a=r}}]);
+//# sourceMappingURL=261.2d95fffd.chunk.js.map

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[472],{9472:(p,e,s)=>{s.r(e);s(2518)}}]);

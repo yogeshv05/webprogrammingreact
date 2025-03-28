@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[900],{577:(e,t,s)=>{e.exports=s.p+"static/media/back.c99ef20ee368af1c2cf5.jpg"},2900:(e,t,s)=>{s.r(t),s.d(t,{default:()=>p});var a=s(5043),c=s(577),r=s(579);class n extends a.Component{render(){return(0,r.jsx)("div",{style:{textAlign:"center"},children:(0,r.jsx)("img",{src:c,alt:"Profile Image",height:100,width:50})})}}const p=n}}]);
-//# sourceMappingURL=900.19d69435.chunk.js.map

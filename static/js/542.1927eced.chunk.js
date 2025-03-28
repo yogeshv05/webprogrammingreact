@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[542],{9542:(e,s,t)=>{t.r(s),t.d(s,{default:()=>p});var n=t(5043),r=t(579);class a extends n.Component{render(){return(0,r.jsxs)("p",{style:{fontSize:"20px",textAlign:"center"},children:["The sum of squares of the two variables is ",29]})}}const p=a}}]);
-//# sourceMappingURL=542.1927eced.chunk.js.map

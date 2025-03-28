@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[308],{33308:(e,a,s)=>{s.r(a),s.d(a,{default:()=>t});var r=s(65043),d=s(70579);class n extends r.Component{render(){var e="";switch((new Date).getDay()){case 0:e="Sunday";break;case 1:e="Monday";break;case 2:e="Tuesday";break;case 3:e="Wednesday";break;case 4:e="Thursday";break;case 5:e="Friday";break;case 6:e="Saturday";break;default:e="Invalid Day"}return(0,d.jsxs)("p",{style:{fontSize:"20px"},children:["Current day of the week is ",e]})}}const t=n}}]);
+//# sourceMappingURL=308.26a0db5a.chunk.js.map
